@@ -1,0 +1,18 @@
+We appreciate your flexibility in using HTML/CSS for frontend development. Below are the revised instructions:
+
+Task: Develop APIs for Login, Signup, and Forgot Password with Frontend in HTML/CSS
+
+Instructions:
+1. Develop RESTful APIs for user login, signup, and forgot password functionalities.
+2. Implement email OTP verification for both signup and forgot password processes within the APIs.
+3. Design frontend UI screens for login, signup, and forgot password functionalities using HTML/CSS.
+4. Ensure that the frontend is intuitive, responsive, and visually appealing.
+5. Upon successful login, users should be directed to a homepage.
+6. The homepage should display three multiple-choice questions (MCQs).
+7. If the user answers all questions correctly, a congratulatory message should appear.
+
+Please ensure that your solution is well-documented and follows best practices in API development and HTML/CSS frontend design.
+
+Once completed, please provide us with the API endpoints documentation along with the HTML/CSS files and any instructions for running the solution.
+
+We appreciate your effort in completing this task. If you have any questions, feel free to reach out to our TECH HEAD at - live:.cid.4caa0e8a7e2f311a
